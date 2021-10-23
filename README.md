@@ -9,8 +9,10 @@ This project is intended for anyone who wants to learn how to achieve this with 
 
 ## Preview
 
-![Initial view](media/image1.gif)
-![Final view](media/image2.gif)
+![Play/Pause view](media/image1.gif)
+![Speed](media/image2.gif)
+![Volume](media/image3.gif)
+![Fullscreen](media/image4.gif)
 
 ## Built With
 
